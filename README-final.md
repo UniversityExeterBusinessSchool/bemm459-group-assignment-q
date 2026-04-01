@@ -48,14 +48,14 @@ This application demonstrates Polyglot Persistence by design:
 └──────────────┬──────────────────────────┬───────────────┘
                │                          │
       ┌────────▼─────────┐       ┌────────▼──────────────┐
-      │  SQL Server      │       │     MongoDB          │
-      │  (Transactional) │       │  (Promotional)       │
-      │                  │       │                      │
-      │ - Products       │       │ - Promo Codes       │
-      │ - Customers      │       │ - Discounts         │
-      │ - Orders         │       │ - Dynamic Rules    │
-      │ │       │      │
-      └──────────────────┘       └─────────────────────┘
+      │  SQL Server      │       │     MongoDB           │
+      │  (Transactional) │       │  (Promotional)        │
+      │                  │       │                       │
+      │ - Products       │       │ - Promo Codes         │
+      │ - Customers      │       │ - Discounts           │
+      │ - Orders         │       │ - Dynamic Rules       │
+      │                  │       │                       │
+      └──────────────────┘       └─────────────────────
 
 Key Components:
 
@@ -409,32 +409,6 @@ This project demonstrates:
 6. Error handling and user experience
 7. Code structure and organization
 8. Documentation best practices
-
-
-CREATING YOUR VIDEO DEMONSTRATION
-===================================
-
-Requirements:
-- Length: Less than 5 minutes
-- Show: Complete development environment
-- Show: Code execution and results
-- Show: Data flowing between SQL and MongoDB
-- Format: MP4 or similar
-
-Recommended Steps:
-1. Open terminal showing project folder
-2. Run test_connections.py to show both databases working
-3. Run order_management_system.py
-4. Walk through product selection
-5. Demonstrate promo code validation
-6. Show order being inserted into SQL Server
-7. Query MongoDB to show usage count updated
-8. Query SQL Server to show new order
-
-Tools:
-- OBS Studio (free screen recording)
-- Camtasia (professional)
-- Screen Recorder (built-in Windows 10+)
 
 
 REFERENCES AND RESOURCES
