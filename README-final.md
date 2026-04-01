@@ -18,7 +18,7 @@ BUSINESS PROBLEM STATEMENT
 ==========================
 
 Challenge:
-"XYZ faces significant challenges in connecting fast-changing brand promotions 
+"ShopSphere faces significant challenges in connecting fast-changing brand promotions 
 with its main financial records. This prevents the company from accurately 
 matching complex discount bundles to actual sales income, leading to poor 
 financial tracking and unreliable revenue reports across its global stores."
