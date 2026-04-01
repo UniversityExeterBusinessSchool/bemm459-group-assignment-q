@@ -43,8 +43,8 @@ This application shows how modern systems can use multiple databases simultaneou
 │                                              │
 │  - Manages user interaction flow             │
 │  - Coordinates between managers              │
-│  - Handles customer registration            │
-│  - Processes order workflow                 │
+│  - Handles customer registration             │
+│  - Processes order workflow                  │
 └────────────┬─────────────────────────────────┘
              │
     ┌────────┼────────┐
